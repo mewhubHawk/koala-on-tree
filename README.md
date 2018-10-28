@@ -1,14 +1,15 @@
 # koala on a tree
-[my koalla on a tree](https://jsfiddle.net/hawking_is_cute/ykjp4fg2/26/embedded/result)
+[my koala on a tree](https://jsfiddle.net/hawking_is_cute/ykjp4fg2/26/embedded/result)
+![koala](https://github.com/mewhubHawk/koala-on-tree/blob/master/Screen%20Shot%202018-10-28%20at%2006.55.05.png)
 
 ## svg where nature happens
 
-A chain saw cuts the bamboo down :-( . 
+A chain saw cuts the tree down :-( . 
 
-The koala grabs the cut bamboo to fight off the chainsaw and the bamboo grows again.
+The koala grabs the cut branch to bop the chainsaw and the tree grows again.
 
-Then more bamboo grows into a forest and the pandas come.
+Then trees and bamboo grow into a jungle and lots of animals come.
 
-The forest and the pandas will be in a darker colour in the background.
+The forest and animals will be in a darker colour in the background.
 
 I might use Raphael to make it.
